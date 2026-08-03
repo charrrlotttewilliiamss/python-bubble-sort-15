@@ -1,2 +1,4 @@
-# python-bubble-sort-15
+# Python Bubble Sort 15
+
 A simple CLI implementation of Bubble Sort in Python.
+
